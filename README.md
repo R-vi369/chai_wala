@@ -25,7 +25,7 @@ Before you begin, make sure you have the following software and tools installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/mba-chaiwala-clone.git
+   git clone https://github.com/R-vi369/chai_wala.git
    ```
 
 2. Navigate to the project directory:
